@@ -4,11 +4,11 @@
 define ("DB_HOST", "localhost");
 define ("DB_NAME", "serappal_kurumsal");
 define ("DB_KULAD", "root");
-define ("DB_SIFRE", "serap2828");
+define ("DB_SIFRE", " ");
 
 
 //GENEL AYARLAR
-define ("URL", "http://localhost/PROJELER/kurumsalsite/OnePageT/");
+define ("URL", "http://localhost/PROJELER/kurumsalsite/OnePageT/"); 
 define ("YONETİM_URL", "http://localhost/PROJELER/kurumsalsite/OnePageT/yonetim/");
 define ("RESIMYOL", "hhttp://localhost/PROJELER/kurumsalsite/OnePageT/img/");
 
